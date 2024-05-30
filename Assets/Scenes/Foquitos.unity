@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -278,8 +278,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1075172777}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.27529323, y: 0.31186673, z: -0.09493217, w: -0.9044007}
+  m_LocalPosition: {x: 1.1046796, y: 1.3913808, z: -1.2674913}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -457,6 +457,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Foquito
+      objectReference: {fileID: 0}
+    - target: {fileID: 1848221054155153702, guid: 35a253c21f425b14bb6b7daf42f82206,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1848221054155153708, guid: 35a253c21f425b14bb6b7daf42f82206,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1848221054155153710, guid: 35a253c21f425b14bb6b7daf42f82206,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1848221054155586818, guid: 35a253c21f425b14bb6b7daf42f82206,
         type: 3}
